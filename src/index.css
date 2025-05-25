@@ -1,0 +1,16 @@
+:root {
+  --primary-color: rgb(0, 247, 255);
+  --secondary-color: rgb(17, 122, 170);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
